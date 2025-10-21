@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sfesaofc.github.io/sfesa.com/sitemap.xml
