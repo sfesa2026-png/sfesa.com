@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sfesa.netlify.app/sitemap.xml
